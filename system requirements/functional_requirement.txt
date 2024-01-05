@@ -1,0 +1,5 @@
+Purpose of the app
+  to earn money easily on free time.
+
+First Page Functionalities
+- be able to see the earning points
